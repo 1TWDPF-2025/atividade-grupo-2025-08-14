@@ -7,3 +7,4 @@ Cada aluno deverá colocar seu nome abaixo.
 - Paula Hasstenteufel 
 - Bruna Pereira
 - Lucas Tamura
+- Lucas Simões Silva
