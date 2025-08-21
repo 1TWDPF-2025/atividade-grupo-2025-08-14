@@ -4,5 +4,7 @@ Cada aluno deverá colocar seu nome abaixo.
 
 ### Nomes
 
-- Paula Hasstenteufel
+- Paula Hasstenteufel 
+- Bruna Pereira
+- Lucas Tamura
 Melyssa Santos
